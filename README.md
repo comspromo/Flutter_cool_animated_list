@@ -1,4 +1,4 @@
-# cool_animated_list
+# Flutter_cool_animated_list
 
 Croos-Platform This code implements an animated list that demonstrates CRUD Function.
 

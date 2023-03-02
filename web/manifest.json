@@ -1,6 +1,6 @@
 {
-    "name": "cool_animated_list",
-    "short_name": "cool_animated_list",
+    "name": "Flutter_cool_animated_list",
+    "short_name": "Flutter_cool_animated_list",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
